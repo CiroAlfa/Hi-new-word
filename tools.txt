@@ -1,0 +1,8 @@
+Name,City,Country
+Seattle-Tacoma,Seatle,USA
+Dules,Washington,USA
+Heathrow,London,United Kongdom
+Schiphol,Amsterdam,Netherlands
+Changi,Singapore,Singapore
+Pearson,Toronto,Canada
+Narita,Tokyo,Japan
